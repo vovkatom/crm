@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <main>
-      <h1>Privet Vovka</h1>
+      <h1>Privet Vovka1</h1>
     </main>
   );
 }
